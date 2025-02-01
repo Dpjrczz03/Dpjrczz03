@@ -1,4 +1,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dpjrczz03&show_icons=true&theme=dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dpjrczz03&theme=react)
+
 
 <!--
 **Dpjrczz03/Dpjrczz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
