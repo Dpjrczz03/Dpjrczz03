@@ -7,9 +7,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dpjrczz03/Dpjrczz03/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpjrczz03&theme=dark)
-
+</p>
 
 
 
