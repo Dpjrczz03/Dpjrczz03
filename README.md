@@ -1,6 +1,7 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dpjrczz03&theme=react)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpjrczz03&theme=dark)
+https://github.com/Dpjrczz03/Dpjrczz03/blob/output/github-contribution-grid-snake-dark.svg
 
 
 
