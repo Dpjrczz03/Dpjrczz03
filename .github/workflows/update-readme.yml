@@ -1,0 +1,33 @@
+name: Update Lines of Code in README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Count Lines of Code
+        run: |
+          TOTAL_LINES=$(git log --pretty=tformat: --numstat | awk '{added+=$1} END {print added}')
+          echo "Total lines added: $TOTAL_LINES"
+          echo "![Lines of Code](https://img.shields.io/badge/Total%20Lines%20Added-$TOTAL_LINES-green)" > lines-badge.md
+
+      - name: Update README
+        run: |
+          sed -i "/<!-- LINES-OF-CODE -->/c\![Lines of Code](https://img.shields.io/badge/Total%20Lines%20Added-$(git log --pretty=tformat: --numstat | awk '{added+=$1} END {print added}')-green)" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated lines of code count"
+          git push
