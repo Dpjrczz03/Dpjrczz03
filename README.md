@@ -1,6 +1,11 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dpjrczz03&theme=react)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpjrczz03&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dpjrczz03/Dpjrczz03/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dpjrczz03/Dpjrczz03/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dpjrczz03/Dpjrczz03/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
