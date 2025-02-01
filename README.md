@@ -1,7 +1,6 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dpjrczz03&show_icons=true&theme=dark)
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dpjrczz03&theme=react)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpjrczz03&theme=dark)
-![Lines of Code](https://img.shields.io/badge/Total%20Lines%20Added-0-green)
 
 
 
