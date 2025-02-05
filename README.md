@@ -7,17 +7,18 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dpjrczz03/Dpjrczz03/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpjrczz03&theme=dark)
-
-</p>
 
 
 
 
 <!--
 **Dpjrczz03/Dpjrczz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpjrczz03&theme=dark)
+
+</p>
+
 
 Here are some ideas to get you started:
 
